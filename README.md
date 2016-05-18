@@ -1,5 +1,5 @@
 # RatorPOC
-POC automatizace Raptor
+POC automatizace Raptor  
 Po checkoutu zadat mvn eclipse:eclipse, vytvori se projekt pro Eclipse
 
 **Dulezite!**
