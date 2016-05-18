@@ -1,0 +1,7 @@
+*.xef
+/target/
+*.iml
+*.project
+*.classpath
+.settings
+/target
